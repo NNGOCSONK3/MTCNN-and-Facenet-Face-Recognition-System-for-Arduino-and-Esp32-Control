@@ -1,0 +1,20 @@
+Dataset/FaceData/processed\tony\image copy 5.png 93 12 200 138
+Dataset/FaceData/processed\tony\image.png 63 13 142 108
+Dataset/FaceData/processed\tony\image copy.png 87 15 160 104
+Dataset/FaceData/processed\tony\image copy 3.png 208 66 526 474
+Dataset/FaceData/processed\tony\image copy 2.png 1372 336 1637 668
+Dataset/FaceData/processed\tony\image copy 6.png 201 59 380 287
+Dataset/FaceData/processed\tony\image copy 7.png 514 121 825 520
+Dataset/FaceData/processed\tony\image copy 9.png 207 19 368 223
+Dataset/FaceData/processed\tony\image copy 8.png 239 23 406 249
+Dataset/FaceData/processed\tony\image copy 4.png 1910 317 2594 1209
+Dataset/FaceData/processed\son\image copy 4.png 16 119 278 434
+Dataset/FaceData/processed\son\image copy 7.png 64 121 363 509
+Dataset/FaceData/processed\son\image copy 9.png 146 130 192 181
+Dataset/FaceData/processed\son\image copy 3.png 41 0 396 421
+Dataset/FaceData/processed\son\image copy 6.png 18 66 162 240
+Dataset/FaceData/processed\son\image.png 141 112 370 382
+Dataset/FaceData/processed\son\image copy 2.png 26 102 291 450
+Dataset/FaceData/processed\son\image copy 8.png 75 176 332 503
+Dataset/FaceData/processed\son\image copy.png 0 78 314 424
+Dataset/FaceData/processed\son\image copy 5.png 31 136 292 482
